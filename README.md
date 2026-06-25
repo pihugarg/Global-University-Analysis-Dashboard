@@ -287,7 +287,6 @@ The project utilizes six interconnected datasets.
 ```
 Global-University-Analysis-Dashboard/
 │
-├── Dashboard.pbix
 ├── README.md
 ├── data/
 │   ├── country.csv
